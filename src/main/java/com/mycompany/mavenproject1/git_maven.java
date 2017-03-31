@@ -13,7 +13,7 @@ public class git_maven {
     public static void main(String []args){
         System.out.println("It's my first git+maven");
         int result=0;
-        for(int i=0;i<=100;i++){
+        for(int i=0;i<=101;i++){
             result+=i;
         }
         System.out.println(result);
